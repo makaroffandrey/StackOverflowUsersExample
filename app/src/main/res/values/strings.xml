@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StackOverflowUsersExample</string>
+    <string name="title_user_detail">User Detail</string>
+    <string name="empty">Empty!\nPull to refresh</string>
+    <string name="load_error">Error loading data. Try again later.</string>
+    <string name="user_name">Name:</string>
+    <string name="user_id">Id:</string>
+    <string name="user_reputation">Reputation:</string>
+    <string name="user_location">Location:</string>
+    <string name="user_creation_date">Creation date:</string>
+</resources>
